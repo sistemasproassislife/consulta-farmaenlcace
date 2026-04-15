@@ -1,5 +1,5 @@
 {
-  "name": "consulta-farmaenlcace",
+  "name": "consulta-farmaenlace",
   "private": true,
   "dependencies": {
     "next": "14.0.0",
