@@ -169,7 +169,7 @@ export default function Home() {
                     ["Plan", plan?.NombrePlan || "-"],
                     ["Tipo de vademécum", plan?.Vademecum || "-"],
                     ["Código plan", plan?.CodigoPlan || "-"],
-                    ["Número", plan?.Numero || "-"],
+                    ["Contrato", plan?.Numero || "-"],
                     ["Cobertura máxima", plan?.CoberturaMaxima ?? "-"],
                     ["Versión", plan?.Version ?? "-"],
                   ]}
